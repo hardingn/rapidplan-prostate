@@ -7,15 +7,13 @@ Also in future work, it would be good to develop an ESAPI script which would all
 ## Training Set Description
 Version|Published
 -------|---------
-1.2 | 27/02/2020
+1.1 | 2019
 
 Training Set Description | Values
 -------------------------|-------
-No of Plans | 58
+No of Plans | 48
 VMAT Arcs | 1
 
-Contributing Centres:
-1. CHH
 
 Structures (non target) | Description
 ------------------------|-----------------------------------------------------

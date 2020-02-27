@@ -1,7 +1,7 @@
 # rapidplan-prostate
 A repository to hold RapidPlan model for CHHip based Prostate 60Gy in 20# model.
 This repository was started as an example of performing version control for the UK RapidPlan Consortium (UKRC).
-Future work will look to add in a proforma which describes the technical settings in the model as well as the structures that are requried in the model, how these are grown from the CTVs etc. A proforma is being developed by the UKRC for this purpose. At this time, this readme includes details for this models.
+Future work will look to add in a proforma which describes the technical settings in the model as well as the structures that are requried in the model, how these are grown from the CTVs etc. A proforma is being developed by the UKRC for this purpose. At this time however, this readme includes details for this model.
 Also in future work, it would be good to develop an ESAPI script which would allow for the releavnt structures to be automatically created.
 
 ## Training Set Description
